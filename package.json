@@ -1,0 +1,24 @@
+{
+  "name": "organ_master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philipwood0912/organ_master.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philipwood0912/organ_master/issues"
+  },
+  "homepage": "https://github.com/philipwood0912/organ_master#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4",
+    "sass": "^1.23.3"
+  }
+}
