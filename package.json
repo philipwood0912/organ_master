@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/philipwood0912/organ_master#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemon": "^1.19.4",
     "sass": "^1.23.3"
   }
